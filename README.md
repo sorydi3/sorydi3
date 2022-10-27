@@ -13,4 +13,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sorydi3)](https://git.io/streak-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
