@@ -20,7 +20,7 @@ Coding Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
 **🐱 My GitHub Data** 
 
@@ -51,6 +51,6 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sorydi3/sorydi3/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2022 14:41:43 UTC
+ Last Updated on 27/10/2022 18:43:22 UTC
 <!--END_SECTION:waka-->
 
