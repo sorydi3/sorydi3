@@ -2,11 +2,10 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-- 🔭 I’m currently working on java Spring Boot
-- 🌱 I’m currently learning QT/QML
+- 🔭 I’m currently working on java/React/python
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on opensource projects. 
 - 🤔 I’m looking for help with on how to start contributing in opensource.
-- 💬 Ask me about anything about java.
 - 📫 How to reach me: ibrahimasory22@hotmail.com
 - 😄 Pronouns: brrrrr
 - ⚡ Fun fact: I love lifting heavy stuff.
